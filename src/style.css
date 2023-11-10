@@ -1,0 +1,5 @@
+@import '~modern-css-reset';
+
+body {
+    background-color: red;
+}
