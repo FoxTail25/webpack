@@ -16,7 +16,9 @@ export default {
         // filename: 'bundle.[contenthash].js',
         // filename: '[name].[contenthash].js',
 
-        
+
         filename: '[name].js',
+        // path: path.resolve('dist'),
+        path: path.resolve('docs'), // путь для выгрузки файлов (в переменной path хранится путь от корня)
     }
 }
