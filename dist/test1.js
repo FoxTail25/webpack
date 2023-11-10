@@ -1,0 +1,1 @@
+(()=>{"use strict";alert("test3"),alert("test222"),alert("test1"),alert("it`s work!!!")})();
